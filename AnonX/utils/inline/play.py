@@ -235,16 +235,16 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/INCRICIBLE_NETWORK"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/II_EchoSystem_Ltd"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/INCRICIBLE"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/ii_U_F_C_ii"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/YOUR_GODFATHER_XD"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/lll_Romaan_lll"
             ),
         
             InlineKeyboardButton(
